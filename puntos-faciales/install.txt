@@ -1,0 +1,3 @@
+pip install dlib
+pip install opencv-python
+pip install numpy
